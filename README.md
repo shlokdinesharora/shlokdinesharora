@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shlok Arora 👋
 
-<!--
-**shlokdinesharora/shlokdinesharora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at Manipal Institute of Technology, interested in machine learning, graph neural networks, and software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE student at MIT, graduating in 2028
+- 🔭 Currently building machine-learning and software projects
+- 🧠 Interested in ML, graph-based learning, and networking
+- 🌱 Learning PyTorch, data science, and backend development
+- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+
+## Featured Project
+
+### Bitcoin Anti-Money-Laundering System
+
+A graph-based system for detecting suspicious Bitcoin transactions using the Elliptic dataset and a three-layer Graph Convolutional Network.
+
+- **94.32%** test accuracy
+- **89.59%** illicit-transaction recall
+- **97.18%** ROC-AUC
+- Built using PyTorch Geometric, pandas, scikit-learn, and Gradio
+
+[View the project](YOUR_PROJECT_REPOSITORY_URL)
+
+## Tech Stack
+
+**Languages:** Python, Java, C, SQL  
+**Machine Learning:** PyTorch, PyTorch Geometric, scikit-learn  
+**Data:** pandas, NumPy, Matplotlib  
+**Tools:** Git, GitHub, VS Code, Linux, Jupyter
+
+## GitHub Stats
+
+![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlokdinesharora&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlokdinesharora&layout=compact&theme=github_dark)
