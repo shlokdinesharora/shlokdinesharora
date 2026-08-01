@@ -1,22 +1,6 @@
-<div align="center">
+# Hi, I'm Shlok Arora 👋
 
-# Hi 👋, I'm Shlok Arora
-
-### A Computer Science student passionate about Machine Learning, Artificial Intelligence, and building data-driven software
-
-<p>
-  <a href="https://www.linkedin.com/in/shlok--arora">
-    <img src="https://img.shields.io/badge/LinkedIn-Shlok_Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shlok2918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/shlokdinesharora">
-    <img src="https://img.shields.io/badge/GitHub-shlokdinesharora-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-</div>
+I'm a Computer Science and Engineering undergraduate at Manipal Institute of Technology, interested in machine learning, artificial intelligence, graph neural networks, and building practical, data-driven software.
 
 ## About Me
 
