@@ -8,7 +8,7 @@ Computer Science Engineering student at Manipal Institute of Technology, interes
 - 🔭 Currently building machine-learning and software projects
 - 🧠 Interested in ML, graph-based learning, and networking
 - 🌱 Learning PyTorch, data science, and backend development
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shlok--arora)
 
 ## Featured Project
 
