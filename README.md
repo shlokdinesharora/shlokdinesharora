@@ -89,20 +89,6 @@ A graph-based anti-money-laundering system for detecting suspicious Bitcoin tran
 - What Is Data Science? — IBM
 - Linux on LinuxONE — IBM
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=shlokdinesharora&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Shlok's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokdinesharora&layout=compact&theme=github_dark&hide_border=true"
-    alt="Shlok's most used languages"
-  />
-</p>
 
 ## Connect With Me
 
