@@ -21,7 +21,7 @@ A graph-based system for detecting suspicious Bitcoin transactions using the Ell
 - **97.18%** ROC-AUC
 - Built using PyTorch Geometric, pandas, scikit-learn, and Gradio
 
-[View the project](YOUR_PROJECT_REPOSITORY_URL)
+[View the project](https://github.com/shlokdinesharora/crypto-aml-risk-detector)
 
 ## Tech Stack
 
