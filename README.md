@@ -1,6 +1,6 @@
 # Hi, I'm Shlok Arora 👋
 
-I'm a Computer Science and Engineering undergraduate at Manipal Institute of Technology, interested in machine learning, artificial intelligence, graph neural networks, and building practical, data-driven software.
+I'm a Computer Science and Engineering undergraduate at Manipal Institute of Technology, interested in Machine Learning, Artificial Intelligence, graph neural networks, and building practical, data-driven software.
 
 ## About Me
 
